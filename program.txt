@@ -1,0 +1,145 @@
+Programming Labs for Physics
+These labs were designed by Prof. Chris Orban for Physics 1250 at OSU Marion and they should be generally useful at the high school and college level. No calculus knowledge or prior programming experience is required.
+
+The nice part about these programming labs is that there is no software to install. The compiling and executing and visualization is all done within your web browser! This is accomplished using a programming framework called p5js.org which is very similar to C/C++.
+
+Prof. Orban is eager to collaborate with high school physics teachers! If you are a high school physics teacher please send an e-mail to orban@physics.osu.edu if you are interested in trying this out or getting some training on how to use these exercises in your classroom.
+Introduction:
+Before doing anything please answer these survey questions!
+Fun Video on the Physics of Video Games and the motivation of the STEMcoding project!!
+
+Introduction to the Programming Framework (Tutorial Video)
+
+Classical mechanics exercises:
+Move the blob
+
+Intro Lab 1. Move-the-blob exercise (Tutorial Video)
+
+Accelerate the blob
+
+Pre-quiz for Accelerate-the-blob
+
+Intro Lab 2. Accelerate-the-blob (Tutorial Video)
+
+Post-quiz for Accelerate-the-blob
+
+Just for fun: Force the Blob (Tutorial Video)
+
+Apollo Moon Landing
+
+Apollo Moon Landing (Tutorial Video)
+
+Bird Launcher
+
+Bird Launcher (Tutorial Video)
+1. Planetoids game!
+Introduction to Planetoids (Coordinate System)
+
+Introduction to Planetoids (Angle System)
+
+Pre-quiz for Planetoids
+
+Lab 1. Planetoids game (Tutorial Video)
+
+Post-quiz for Planetoids
+2. Lunar descent game!
+Pre-quiz for Lunar Descent
+
+Lab 2. Lunar Descent game (Tutorial Video)
+
+Post-quiz for Lunar Descent
+
+3. Bellicose birds game!
+Pre-quiz for Bellicose birds
+
+Lab 3. Bellicose Birds game (Tutorial Video)
+
+Post-quiz for Bellicose birds
+
+4. Planetoids with momentum!
+Pre-quiz for Planetoids with momentum
+
+Lab 4. Planetoids with momentum! (Tutorial Video)
+
+Post-quiz for Planetoids with momentum
+
+5. Planetoids with torque!
+Pre-quiz for planetoids with torque
+
+Lab 5. Planetoids with torque! (Video Tutorial)
+
+Post-quiz for planetoids with torque
+
+6. Planetoids with a spring!
+Pre-quiz for planetoids with a spring
+
+Lab 6. Planetoids with a spring! (Video Tutorial)
+
+Post-quiz for planetoids with a spring
+
+(Extra credit) 7. Bellicose birds with energy!
+Lab 7. Bellicose birds with energy!
+
+8. Pong!
+
+Lab 8. The Pong game! (Video Tutorial)
+
+9. Bonk.io clone
+
+Lab 9. Bonk.io clone! (Video Tutorial)
+
+Astronomy!
+Night Sky Simulator! (Video Tutorial)
+
+Slingshot with gravity (Video Tutorial)
+
+Orbital Motion: Kepler's 2nd law
+
+Orbital Motion: Eccentricity
+
+Escape velocity and Newtonian Black Holes (Video Tutorial)
+
+Exoplanets! (Video Tutorial)
+
+Hidden Figures: Project Mercury activities
+Project Mercury (Part 1. Circular Orbit)
+
+Project Mercury (Part 2. reentry)
+
+Electromagnetism Exercises
+Discussion of the unit system (protons have q = +1, m = 1)
+
+1. Particle Accelerator
+Pre-quiz for particle accelerator
+
+Lab 1. Particle Accelerator! (Video Tutorial for Part 1, Part 2 still in progress)
+
+Post-quiz for particle accelerator
+
+2. Particle Accelerator with potential
+Lab 2. Particle Accelerator (with potential!)
+
+3. Point charge repulsion (Video Tutorial)
+
+Pre-quiz for point charge repulsion
+
+Lab 3. Repulsion between two point charges
+
+Post-quiz for point charge repulsion
+
+4. RC circuit
+Lab 4. RC circuits
+
+5. Magnetic forces
+Pre-quiz for magnetic forces
+
+Lab 5. Magnetic force (a.k.a. Mass Spectrometer) (Video Tutorial)
+
+Post-quiz for magnetic forces
+
+6. Wave interference (Tutorial Video)
+
+Lab 6. Wave Interference!
+
+Just for fun: thin film interference
+Thin film visualization (Here is the code)
